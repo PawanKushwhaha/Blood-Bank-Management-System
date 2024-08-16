@@ -1,3 +1,5 @@
+Blood Donor Management System.
+
 Overview :-
 
 This project is a C++ based platform designed to connect patients in need of blood with potential donors. The platform allows both patients and donors to register by providing their details such as name, address, blood group, and contact information. Patients can search for donors based on location and blood group, and contact them directly.
